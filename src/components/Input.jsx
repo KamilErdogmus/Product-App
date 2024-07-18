@@ -1,5 +1,3 @@
-import React from "react";
-
 const Input = ({ placeholder, type, name, id, onChange, value }) => {
   return (
     <div className="w-full">
